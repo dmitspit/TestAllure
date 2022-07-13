@@ -7,7 +7,7 @@ namespace TestAllure
     [TestFixture]
     [AllureNUnit]
     [Category("API validation Test")]
-    [Parallelizable(ParallelScope.All)]
+    //[Parallelizable(ParallelScope.All)]
     public class Tests : Base
     {
         [Test]
