@@ -1,0 +1,12 @@
+﻿{
+  "allure": {
+    "directory": "C:\\Users\\dspitchenko\\source\\repos\\TestAllure\\TestAllure\\Results", // optional, default value is "allure-results"
+    "title": "custom run title", // optional
+    "links": //optional 
+    [
+      "https://example.org/{link}",
+      "https://example.org/{issue}",
+      "https://example.org/{tms}"
+    ]
+  }
+}

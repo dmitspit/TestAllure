@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Wed Jul 06 19:49:55 EEST 2022","Wed Jul 06 19:50:04 EEST 2022","8898","","","","Tests","_03_Test_name","_03_Test_name","Verify Fee and Tax Transmission and transformation to PMP If FeeSettings = 1 and Affiliate Tax is not specified
+"
+"passed","Wed Jul 06 19:49:55 EEST 2022","Wed Jul 06 19:50:03 EEST 2022","8028","","","","Tests","_01_Test","_01_Test","Verify Fee and Tax Transmission and transformation to PMP If FeeSettings = 1 and Affiliate Tax is not specified
+"
+"passed","Wed Jul 06 19:49:55 EEST 2022","Wed Jul 06 19:50:03 EEST 2022","8028","","","","Tests","_02_Test","_02_Test","Verify Fee and Tax Transmission and transformation to PMP If FeeSettings = 1 and Affiliate Tax is not specified
+"

@@ -1,0 +1,44 @@
+{
+  "uuid": "ae299aca-22c0-40a5-8222-5f4ac3452658-tc-0-1000",
+  "name": "TestAllure.Tests._01_Test",
+  "children": [
+    "59a274b0-a6ab-4dcd-92de-0f76467ddb9d-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1657126203698,
+      "stop": 1657126203698
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1657126203698,
+      "stop": 1657126203698
+    }
+  ],
+  "links": [],
+  "start": 1657126195674,
+  "stop": 1657126203729
+}

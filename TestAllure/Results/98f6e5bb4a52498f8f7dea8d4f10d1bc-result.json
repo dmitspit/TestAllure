@@ -1,0 +1,96 @@
+{
+  "uuid": "d45b571c-bcf8-4094-8459-833b013f5565-tr-0-1003",
+  "historyId": "TestAllure.Tests._03_Test_name",
+  "fullName": "TestAllure.Tests._03_Test_name",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#7"
+    },
+    {
+      "name": "host",
+      "value": "DSPITCHENKO-NB"
+    },
+    {
+      "name": "package",
+      "value": "TestAllure"
+    },
+    {
+      "name": "testMethod",
+      "value": "_03_Test_name"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "owner",
+      "value": "Dmytro"
+    },
+    {
+      "name": "tag",
+      "value": "C7552714"
+    },
+    {
+      "name": "tag",
+      "value": "C7558432"
+    },
+    {
+      "name": "tag",
+      "value": "C7557743"
+    },
+    {
+      "name": "tag",
+      "value": "C7557744"
+    },
+    {
+      "name": "tag",
+      "value": "Regrsion"
+    },
+    {
+      "name": "tag",
+      "value": "API validation Test"
+    }
+  ],
+  "links": [],
+  "name": "_03_Test_name",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected string length 4 but was 6. Strings differ at index 0.\r\n  Expected: \"AXqw\"\r\n  But was:  \"Google\"\r\n  -----------^\r\n",
+    "trace": "   at TestAllure.Tests._03_Test_name() in C:\\Users\\dspitchenko\\source\\repos\\TestAllure\\TestAllure\\UnitTest1.cs:line 46\r\n"
+  },
+  "stage": "finished",
+  "description": "Verify Fee and Tax Transmission and transformation to PMP If FeeSettings = 1 and Affiliate Tax is not specified\n",
+  "steps": [
+    {
+      "name": "_03_Test_name",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Expected string length 4 but was 6. Strings differ at index 0.\r\n  Expected: \"AXqw\"\r\n  But was:  \"Google\"\r\n  -----------^\r\n",
+        "trace": "   at TestAllure.Tests._03_Test_name() in C:\\Users\\dspitchenko\\source\\repos\\TestAllure\\TestAllure\\UnitTest1.cs:line 46\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "ccaa08eabc2e4921aeb4a6d408e74bd6-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1657126195676,
+      "stop": 1657126204574
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1657126195676,
+  "stop": 1657126204574
+}

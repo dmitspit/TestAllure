@@ -1,0 +1,81 @@
+{
+  "uuid": "59a274b0-a6ab-4dcd-92de-0f76467ddb9d-tr-0-1001",
+  "historyId": "TestAllure.Tests._01_Test",
+  "fullName": "TestAllure.Tests._01_Test",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#8"
+    },
+    {
+      "name": "host",
+      "value": "DSPITCHENKO-NB"
+    },
+    {
+      "name": "package",
+      "value": "TestAllure"
+    },
+    {
+      "name": "testMethod",
+      "value": "_01_Test"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    },
+    {
+      "name": "owner",
+      "value": "Dmytro"
+    },
+    {
+      "name": "tag",
+      "value": "C7552714"
+    },
+    {
+      "name": "tag",
+      "value": "Regrsion"
+    },
+    {
+      "name": "tag",
+      "value": "API validation Test"
+    }
+  ],
+  "links": [],
+  "name": "_01_Test",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "_01_Test"
+  },
+  "stage": "finished",
+  "description": "Verify Fee and Tax Transmission and transformation to PMP If FeeSettings = 1 and Affiliate Tax is not specified\n",
+  "steps": [
+    {
+      "name": "_01_Test",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "813812ec2e56485eb8de6353fb7ea99d-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1657126195676,
+      "stop": 1657126203700
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1657126195676,
+  "stop": 1657126203704
+}

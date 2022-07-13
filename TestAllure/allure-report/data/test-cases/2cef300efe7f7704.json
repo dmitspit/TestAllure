@@ -1,0 +1,130 @@
+{
+  "uid" : "2cef300efe7f7704",
+  "name" : "_01_Test",
+  "fullName" : "TestAllure.Tests._01_Test",
+  "historyId" : "TestAllure.Tests._01_Test",
+  "time" : {
+    "start" : 1657126195676,
+    "stop" : 1657126203704,
+    "duration" : 8028
+  },
+  "description" : "Verify Fee and Tax Transmission and transformation to PMP If FeeSettings = 1 and Affiliate Tax is not specified\n",
+  "descriptionHtml" : "<p>Verify Fee and Tax Transmission and transformation to PMP If FeeSettings = 1 and Affiliate Tax is not specified</p>\n",
+  "status" : "passed",
+  "statusMessage" : "_01_Test",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "SetUp",
+    "time" : {
+      "start" : 1657126203698,
+      "stop" : 1657126203698,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "Verify Fee and Tax Transmission and transformation to PMP If FeeSettings = 1 and Affiliate Tax is not specified\n",
+    "status" : "passed",
+    "statusMessage" : "_01_Test",
+    "steps" : [ {
+      "name" : "_01_Test",
+      "time" : {
+        "start" : 1657126195676,
+        "stop" : 1657126203700,
+        "duration" : 8024
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7638b4a41791268d",
+        "name" : "Console Output",
+        "source" : "7638b4a41791268d.txt",
+        "type" : "text/plain",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "TearDown",
+    "time" : {
+      "start" : 1657126203698,
+      "stop" : 1657126203698,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "ParallelWorker#8"
+  }, {
+    "name" : "host",
+    "value" : "DSPITCHENKO-NB"
+  }, {
+    "name" : "package",
+    "value" : "TestAllure"
+  }, {
+    "name" : "testMethod",
+    "value" : "_01_Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests"
+  }, {
+    "name" : "owner",
+    "value" : "Dmytro"
+  }, {
+    "name" : "tag",
+    "value" : "C7552714"
+  }, {
+    "name" : "tag",
+    "value" : "Regrsion"
+  }, {
+    "name" : "tag",
+    "value" : "API validation Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "owner" : "Dmytro",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "API validation Test", "C7552714", "Regrsion" ]
+  },
+  "source" : "2cef300efe7f7704.json",
+  "parameterValues" : [ ]
+}
